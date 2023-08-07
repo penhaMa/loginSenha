@@ -1,0 +1,12 @@
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\bin\Debug\senhaLogin.exe.config
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\bin\Debug\senhaLogin.exe
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\bin\Debug\senhaLogin.pdb
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.Form1.resources
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.Properties.Resources.resources
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.csproj.GenerateResource.cache
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.exe
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.pdb
+C:\Users\penha\source\repos\senhaLogin\senhaLogin\obj\Debug\senhaLogin.Login.resources
