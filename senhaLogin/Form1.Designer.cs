@@ -69,6 +69,7 @@
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(253, 38);
             this.login.TabIndex = 2;
+            this.login.TextChanged += new System.EventHandler(this.login_TextChanged);
             // 
             // label2
             // 
@@ -101,6 +102,7 @@
             this.senha.Name = "senha";
             this.senha.Size = new System.Drawing.Size(253, 38);
             this.senha.TabIndex = 4;
+            this.senha.TextChanged += new System.EventHandler(this.senha_TextChanged);
             // 
             // Form1
             // 

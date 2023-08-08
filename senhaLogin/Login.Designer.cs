@@ -55,6 +55,7 @@
             this.senha2.Name = "senha2";
             this.senha2.Size = new System.Drawing.Size(253, 38);
             this.senha2.TabIndex = 10;
+            this.senha2.TextChanged += new System.EventHandler(this.senha2_TextChanged);
             // 
             // label2
             // 
@@ -75,6 +76,7 @@
             this.login1.Name = "login1";
             this.login1.Size = new System.Drawing.Size(253, 38);
             this.login1.TabIndex = 8;
+            this.login1.TextChanged += new System.EventHandler(this.login1_TextChanged);
             // 
             // label1
             // 
